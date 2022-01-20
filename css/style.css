@@ -981,7 +981,6 @@ h3{
 #reservation_part .image {
     z-index: 1;
     height: 580px;
-    width: 100%;
     margin-left: -45px;
     position: absolute;
 }
@@ -1097,7 +1096,7 @@ h3{
 #reservation_part .homereservation_left .image {
 	z-index: 1;
 	height: 100%;
-	margin-left: 50px;
+	margin-left: -50px;
 	position: relative;
 }
 #reservation_part .homereservation_left .smoke-img {
